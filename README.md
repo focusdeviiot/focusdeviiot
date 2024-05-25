@@ -23,6 +23,7 @@ Software Engineer, Automation Engineer
 
 <b>My GitHub Stats</b>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=focusdeviiot&layout=compact&theme=transparent)
+
 ![Danuwat'B GitHub stats](https://github-readme-stats.vercel.app/api?username=focusdeviiot&show_icons=true&theme=transparent) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=focusdeviiot&layout=compact&theme=transparent)
