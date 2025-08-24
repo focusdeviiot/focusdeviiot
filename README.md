@@ -7,7 +7,7 @@ Software Engineer, Automation Engineer
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/danuwat-baongoen/)
 * ✉️  You can contact me at [danuwat.bao@outlook.com](mailto:danuwat.bao@outlook.com)
-* 🚀  I'm currently working on [KBTG](http://www.kbtg.tech)
+* 🚀  I'm currently working on [Ascend Group](https://www.ascendcorp.com/)
 * 🧠  I'm learning Rust, DevOps, Solutions Architecture
 
 ### Skills
